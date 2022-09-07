@@ -46,6 +46,7 @@ Full-Stack Facebook clone with functional user login and a functional live feed 
 <br>
 <img src='./public/Facebook.gif'>
 <br>
+![cover](https://github.com/heyitsmebev/feelgood-journal/blob/main/public/images/cover.png)
 <hr>
 
 ### Meet the Alphabet<br>
@@ -55,6 +56,7 @@ Fully responsive personal portfolio site that I designed and coded completely fr
 <br>
 <img src='./public/Portfolio.gif'>
 <br>
+![gamescreenshot](https://github.com/heyitsmebev/Meet-The-Alphabet/blob/main/assets/images/screenshare.gif)
 <hr>
 
 ### Litzia Storefront<br>
