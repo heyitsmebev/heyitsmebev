@@ -59,15 +59,6 @@ Fully responsive personal portfolio site that I designed and coded completely fr
 ![gamescreenshot](https://github.com/heyitsmebev/Meet-The-Alphabet/blob/main/assets/images/screenshare.gif)
 <hr>
 
-### Litzia Storefront<br>
-<a href='#'>Deployed Application</a><br>
-<a href='#'>GitHub Repository</a><br>
-Full-stack administrative storefront for Litzia, an IT company in Bellingham, WA (some of the features, such as add to cart, will only work for Administrative staff at Litzia)
-<br>
-<img src='./public/Litzia.gif'>
-<br>
-<hr>
-
 
 ## 🔧 Technologies & Tools
 <b>Languages:</b> JavaScript ES6+, CSS3, HTML5<br>
