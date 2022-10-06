@@ -62,8 +62,8 @@ Fully responsive personal portfolio site that I designed and coded completely fr
 
 ## 🔧 Technologies & Tools
 <b>Languages:</b> JavaScript ES6+, CSS3, HTML5<br>
-<b>Front-End:</b> React.js, React Hooks, Next.js, Tailwind CSS, Bootstrap, Material UI, DOM<br>
-<b>Back-End:</b> Node.js, Express.js, MySQL, Sequelize, MongoDB, Firestore DB, RESTful APIs<br>
+<b>Front-End:</b> React.js, React Hooks, CSS, Bootstrap, Material UI, Javascript, DOM<br>
+<b>Back-End:</b> Node.js, Express.js, MySQL, MongoDB, RESTful APIs<br>
 <b>Tools:</b> jQuery, Local Storage, JSON, NPM, Git, GitHub, Heroku<br>
-<b>Other skills:</b> Agile Development, Communication, Creative Writing, Marketing, Teamwork
+<b>Other skills:</b> Agile Development, Communication, Creative Design, Marketing, Teamwork
 
